@@ -16,7 +16,7 @@ A modern, responsive authentication and profile management application built wit
 ## Links
 
 - **GitHub Repository**: [VIEW GIT-CODE](https://github.com/vishnuu5/popx-app_Educase_India.git)
-- **Live Demo**: [View DEMO]()
+- **Live Demo**: [View DEMO](https://popx-app-educase-india.vercel.app)
 - **Design Reference**: Adobe XD Design
 
 ## Quick Start
